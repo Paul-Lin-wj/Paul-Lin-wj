@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Huiyang Lin — Neutrino physics and AI agents">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#080d1a"/><stop offset="50%" stop-color="#0d1730"/><stop offset="100%" stop-color="#131e3c"/></linearGradient>
+<linearGradient id="topbar" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#58a6ff"/><stop offset="55%" stop-color="#6ea8fe"/><stop offset="100%" stop-color="#7ee0c8" stop-opacity="0"/></linearGradient>
+<linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#58a6ff"/><stop offset="100%" stop-color="#7ee0c8" stop-opacity="0.1"/></linearGradient>
+<radialGradient id="glow" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#58a6ff" stop-opacity="0.16"/><stop offset="55%" stop-color="#58a6ff" stop-opacity="0.05"/><stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="280" fill="url(#bg)"/>
+<circle cx="1108" cy="140" r="235" fill="url(#glow)"/>
+<circle cx="1108" cy="140" r="58" fill="none" stroke="#58a6ff" stroke-opacity="0.3" stroke-width="1"/>
+<circle cx="1108" cy="140" r="90" fill="none" stroke="#58a6ff" stroke-opacity="0.22" stroke-width="1"/>
+<circle cx="1108" cy="140" r="122" fill="none" stroke="#58a6ff" stroke-opacity="0.16" stroke-width="1"/>
+<circle cx="1108" cy="140" r="154" fill="none" stroke="#58a6ff" stroke-opacity="0.11" stroke-width="1"/>
+<circle cx="1108" cy="140" r="186" fill="none" stroke="#58a6ff" stroke-opacity="0.07" stroke-width="1"/>
+<circle cx="1108.0" cy="18.0" r="3.4" fill="#7ee0c8" fill-opacity="0.55"/>
+<circle cx="1149.7" cy="25.4" r="3.4" fill="#7ee0c8" fill-opacity="0.55"/>
+<circle cx="1186.4" cy="46.5" r="3.4" fill="#7ee0c8" fill-opacity="0.55"/>
+<circle cx="1213.7" cy="79.0" r="3.4" fill="#7ee0c8" fill-opacity="0.55"/>
+<circle cx="1228.1" cy="118.8" r="3.4" fill="#7ee0c8" fill-opacity="0.55"/>
+<circle cx="1228.1" cy="161.2" r="3.4" fill="#7ee0c8" fill-opacity="0.55"/>
+<circle cx="1213.7" cy="201.0" r="3.4" fill="#7ee0c8" fill-opacity="0.55"/>
+<circle cx="1186.4" cy="233.5" r="3.4" fill="#7ee0c8" fill-opacity="0.55"/>
+<circle cx="1149.7" cy="254.6" r="3.4" fill="#7ee0c8" fill-opacity="0.55"/>
+<circle cx="1108.0" cy="262.0" r="3.4" fill="#7ee0c8" fill-opacity="0.55"/>
+<circle cx="1066.3" cy="254.6" r="3.4" fill="#7ee0c8" fill-opacity="0.55"/>
+<circle cx="1029.6" cy="233.5" r="3.4" fill="#7ee0c8" fill-opacity="0.55"/>
+<circle cx="1002.3" cy="201.0" r="3.4" fill="#7ee0c8" fill-opacity="0.55"/>
+<circle cx="987.9" cy="161.2" r="3.4" fill="#7ee0c8" fill-opacity="0.55"/>
+<circle cx="987.9" cy="118.8" r="3.4" fill="#7ee0c8" fill-opacity="0.55"/>
+<circle cx="1002.3" cy="79.0" r="3.4" fill="#7ee0c8" fill-opacity="0.55"/>
+<circle cx="1029.6" cy="46.5" r="3.4" fill="#7ee0c8" fill-opacity="0.55"/>
+<circle cx="1066.3" cy="25.4" r="3.4" fill="#7ee0c8" fill-opacity="0.55"/>
+<circle cx="1147.6" cy="-8.8" r="2.4" fill="#58a6ff" fill-opacity="0.45"/>
+<circle cx="1216.7" cy="30.9" r="2.4" fill="#58a6ff" fill-opacity="0.45"/>
+<circle cx="1256.7" cy="99.9" r="2.4" fill="#58a6ff" fill-opacity="0.45"/>
+<circle cx="1256.8" cy="179.6" r="2.4" fill="#58a6ff" fill-opacity="0.45"/>
+<circle cx="1217.1" cy="248.7" r="2.4" fill="#58a6ff" fill-opacity="0.45"/>
+<circle cx="1148.1" cy="288.7" r="2.4" fill="#58a6ff" fill-opacity="0.45"/>
+<circle cx="1068.4" cy="288.8" r="2.4" fill="#58a6ff" fill-opacity="0.45"/>
+<circle cx="999.3" cy="249.1" r="2.4" fill="#58a6ff" fill-opacity="0.45"/>
+<circle cx="959.3" cy="180.1" r="2.4" fill="#58a6ff" fill-opacity="0.45"/>
+<circle cx="959.2" cy="100.4" r="2.4" fill="#58a6ff" fill-opacity="0.45"/>
+<circle cx="998.9" cy="31.3" r="2.4" fill="#58a6ff" fill-opacity="0.45"/>
+<circle cx="1067.9" cy="-8.7" r="2.4" fill="#58a6ff" fill-opacity="0.45"/>
+<rect width="1200" height="3" fill="url(#topbar)"/>
+<text x="72" y="96" font-family="'Inter','Helvetica Neue',Helvetica,Arial,'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="42" font-weight="600" fill="#e8eef7" letter-spacing="0.6">Huiyang Lin<tspan font-size="23" font-weight="400" fill="#7d8590" letter-spacing="0" dx="18">林晖洋</tspan></text>
+<rect x="72" y="122" width="248" height="2" rx="1" fill="url(#rule)"/>
+<text x="72" y="170" font-family="'Inter','Helvetica Neue',Helvetica,Arial,'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="21" fill="#b6c6de">Neutrino physics <tspan fill="#7ee0c8">×</tspan> AI agents</text>
+<text x="72" y="201" font-family="'Inter','Helvetica Neue',Helvetica,Arial,'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14.5" fill="#6e7f9b">JUNO energy calibration &amp; auditable phone-control tooling</text>
+<text x="72" y="245" font-family="'Inter','Helvetica Neue',Helvetica,Arial,'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="13" fill="#5b6b87">Undergraduate · School of Physics and Technology, Wuhan University</text>
+</svg>
